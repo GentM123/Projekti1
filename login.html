@@ -22,41 +22,103 @@
       #log:hover{
         background-color: lightcoral;
       }
+      .form {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-evenly;
+            text-align: left;
+            border-radius: 20px;
+            padding: 20px;
+            width: 300px;
+            margin-top: 50px;
+        }
+
+        .content {
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center; 
+        }
+
+        .label {
+            min-width: 80px; 
+            font-weight: bold;
+            color: black;
+        }
+
+        .user-input {
+            color: rgba(14, 14, 51, 0.938);
+            flex: 1;
+            word-wrap: break-word;
+        }
+        #gjinia{
+            display: flex;
+        }
     </style>
 </head>
 <body>
     
     <div id="main" onclick="hyrja()">
         <h1>Welcome</h1>
-        <form>
-            <label>Emri <input class="forma" type="text" name="emri" id="emri"> </label>
-            <br>
-            <br>
-            <label>Mbiemri <input class="forma" type="text" name="mbiemri" id="mbiemri"> </label>
-            <br>
-            <br>
-            <label>Mosha <input class="forma" type="number" name="mosha" id="mosha"> </label>
-            <br>
-            <br>
-            <label>Email <input class="forma" type="text" name="emaili" id="emaili"></label>
-            <br>
-            <br>
-            <label>Password <input class="forma" type="password" name="passwordi" id="passwordi"></label>
-            <br>
-            <br>
-            <label>M <input type="radio" name="gjinia" value="M"></label>
+
+        <div class="form">
+            <div class="content">
+                <div class="label">Emri</div>
+                <div class="user-input" id="emri"></div>
+            </div>
+            
+            <div class="content">
+                <div class="label">Mbiemri</div>
+                <div class="user-input" id='mbiemri'></div>
+            </div>
+    
+            <div class="content">
+                <div class="label">Viti i lindjes</div>
+                <div class="user-input" id='vitiLindjes'></div>
+            </div>
+            <div class="content">
+                <div class="label">Mosha</div>
+                <div class="user-input" id='mosha'></div>
+            </div>
+            <div class="content">
+                <div class="label">Emaili</div>
+                <div class="user-input" id='emaili'></div>
+            </div>
+            <div class="content">
+                <div class="label">Adresa</div>
+                <div class="user-input" id='adresa'></div>
+            </div>
+            <div id="gjinia">
+            <label >M <input type="radio" name="gjinia" value="M"></label>
             <label>F <input type="radio" name="gjinia" value="F"></label>
+            </div>
             <br>
             <br>
            <a href="home.html">
             <input id="log" type="submit" value="Regjistrohuni" >
             </a>
-        </form>
+
     </div>
 
     <script>
-        
+
         confirm("Pranoni cookies");
+
+        document.getElementById("emri").innerText = prompt("Shkruajeni emrin:");
+
+        document.getElementById("mbiemri").innerText = prompt("Shkruajeni mbiemrin:");
+
+        let vitiLindjes = prompt("Shkruajeni vitin e lindjes");
+
+        document.getElementById("vitiLindjes").innerText= vitiLindjes;
+
+        let vitiTash = new Date().getFullYear();
+        let mosha = vitiTash - vitiLindjes;
+
+        document.getElementById("mosha").innerText= mosha;
+
+        document.getElementById("emaili").innerText= prompt("Shkruajeni emailin:");
+
+        document.getElementById("adresa").innerText= prompt("Shkruajeni adresen:");
 
         function shfaqMesazhin(){
             alert("Jeni regjistruar me sukses!");
