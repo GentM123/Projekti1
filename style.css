@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: beige;
+}
+#headeri{
+    display: flex;
+    align-items: center;
+}
+#emri{
+    padding-left: 500px;
+    font-size: 20px;
+}
+#log_img{
+    padding: 5px;
+}
+ul{
+    padding-left: 400px;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+}
+li{
+    padding-left: 15px;
+}
+ul li:hover{
+    font-weight: bold;
+    cursor: pointer;
+    border-bottom: 3px solid red;
+}
+#teksti{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+main{
+    margin-top: 50px;
+}
+#brendet{
+    width: 90%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    padding-top: 20px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 30px;
+}
+#fotografit{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;
+    padding-top: 5px;
+}
+img{
+    padding: 5px;
+}
+#miss{
+    padding-top: 60px;
+}
+#brendet2{
+    width: 90%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    padding-top: 20px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 30px;
+}
+#fotografit2{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 200px;
+}
+#pershkrimi{
+    height: 250px;
+    text-align: center;
+    border: 2px solid black;
+}
+.img{
+    width: 80%;
+    height: 75%;
+    align-items: center;
+}
+#titulli{
+    margin-top: 5px;
+    margin-left: 30px;
+}
+#pjesapare{
+    border: 2px dotted dodgerblue;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-right: 60px;
+}
+#permbajtja{
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: 25px;
+    line-height: 1cm;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.img:hover{
+    cursor: pointer;
+    height: 200px;
+}
+#pjesadyte{
+    border: 2px dotted lightgreen;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-right: 60px;
+}
