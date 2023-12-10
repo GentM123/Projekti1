@@ -59,16 +59,28 @@
  
     <div id="main" onclick="hyrja()">
         <h1>Welcome</h1>
-           
+            <label>Emri<br> <input type="text" name="emri" id="emri"></label>
+            <div class="error-message" id="nameError"></div>
+            <br>
+            <label>Mbiemri <br> <input type="text" name="mbiemri" id="mbiemri"></label>
+            <br>
             <label>Email <br> <input type="text" name="emaili" id="emaili"></label>
             <div class="error-message" id="nameError"></div>
             <br>
-            <label>Password <br> <input type="password" name="passwordi" id="passwordi" size="15"></label>
+            <label>Password <br> <input type="password" name="passwordi" id="passwordi"></label>
+            <br>
+            <label>Re-type Password <br><input type="password" name="passwordi" id="passwordi"></label>.
+            <br>
+            <label>Ditelindja <br> <input type="date" name="data" id="data"></label>
             <br>
             <label><input type="checkbox">I agree to the terms and conditions</label>
-            <br>    
-            <a href="home.html">
-            <input onclick="validateForm()" id="log" type="submit" value="Log in" >
+            <br>
+            <label >M <input type="radio" name="gjinia" value="M"></label>
+            <label>F <input type="radio" name="gjinia" value="F"></label>
+            <br>
+            
+            <a href="login.html">
+            <input onclick="validateForm()" id="log" type="submit" value="Regjistrohuni" >
             </a>
 
     </div>
@@ -102,12 +114,9 @@
             emailError.innerText = 'invalid email';
             return;
         }
-    }
-
-
 
         alert('form submitted succesfully!');
-
+    }
 
     </script>
 
