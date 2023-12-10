@@ -59,7 +59,6 @@ main{
     width: 300px;
     height: 200px;
     border: 1px solid black;
-    padding-top: 5px;
 }
 img{
     padding: 5px;
@@ -85,7 +84,7 @@ img{
     height: 200px;
 }
 #pershkrimi{
-    height: 250px;
+    height: 270px;
     text-align: center;
     border: 2px solid black;
 }
@@ -100,7 +99,7 @@ img{
 }
 #pjesapare{
     border: 2px dotted dodgerblue;
-    margin-left: 10px;
+    margin-left: 60px;
     margin-bottom: 20px;
     margin-right: 60px;
 }
@@ -120,7 +119,54 @@ a{
 }
 #pjesadyte{
     border: 2px dotted lightgreen;
-    margin-left: 10px;
+    margin-left: 60px;
     margin-bottom: 20px;
     margin-right: 60px;
+}
+#kontakti{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color: beige;
+}
+#insta{
+    display: flex;
+    padding: 3px;
+}
+#facebook{
+    display: flex;
+    padding: 3px;
+}
+#email{
+    display: flex;
+    padding: 3px;
+}
+#telefoni{
+    align-items: center;
+    padding-top: 30px;
+}
+#location{
+    padding-top: 30px;
+    padding-right: 10px;
+}
+#korniza{
+    padding-top: 5px;
+}
+#produktet-detajet{
+    text-align: center;
+    padding: 5px;
+    background-color: aliceblue;
+}
+#produktet-detajet p span{
+    text-decoration: line-through;
+    color: red;
+    padding-right: 10px;
+}
+#produktet-detajet a{
+    background-color: lightblue;
+    font-size: 15px;
+}
+#produktet-detajet a:hover{
+    background-color: rgb(44, 111, 211);
+    font-size: 17px;
 }
