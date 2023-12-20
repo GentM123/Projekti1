@@ -79,7 +79,7 @@
             <label>F <input type="radio" name="gjinia" value="F"></label>
             <br>
             
-            <a href="login.html">
+            <a href="login.php">
             <input onclick="validateForm()" id="log" type="submit" value="Regjistrohuni" >
             </a>
 

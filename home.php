@@ -14,7 +14,7 @@
         <div id="headeri">
             <div id="log_img">
                 <img style="width: 100px;"
-                    src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/logo.png"
+                    src="Foto\logo.png"
                     alt="logo">
             </div>
             <div id="emri">
@@ -22,10 +22,10 @@
             </div>
             <div id="lista">
                 <ul>
-                    <a href="home.html">
+                    <a href="home.php">
                         <li>Home</li>
                     </a>
-                    <a href="products.html">
+                    <a href="products.php">
                         <li>Products</li>
                     </a>
                     <a href="#kontakti">
@@ -75,84 +75,84 @@
         <div id="brendet">
             <div id="fotografit">
                 <img
-                    src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/cartierlogo.png">
+                    src="Foto\cartierlogo.png">
             </div>
             <div id="fotografit">
                 <img
-                    src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/hublotlogo.png">
+                    src="Foto/hublotlogo.png">
             </div>
             <div id="fotografit">
                 <img
-                    src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/MejuriLogoOGImage.webp">
+                    src="Foto/MejuriLogoOGImage.webp">
             </div>
             <div id="fotografit">
                 <img id="miss"
-                    src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/missomalogo.png">
+                    src="Foto/missomalogo.png">
             </div>
             <div id="korniza">
                 <div id="fotografit">
                     <img
-                        src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/omegalogo.png">
+                        src="Foto/omegalogo.png">
                 </div>
             </div>
             <div id="korniza">
                 <div id="fotografit">
                     <img
-                        src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/tiffanylogo.png">
+                        src="Foto/tiffanylogo.png">
                 </div>
             </div>
             <div id="korniza">
                 <div id="fotografit">
                     <img
-                        src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/rolexlogo.png">
+                        src="Foto/rolexlogo.png">
                 </div>
             </div>
             <div id="korniza">
                 <div id="fotografit">
                     <img
-                        src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/adidas.png">
+                        src="Foto/adidas.png">
                 </div>
             </div>
             <div id="korniza">
                 <div id="fotografit">
                     <img style="width: 250px; height: 180px;"
-                        src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/akila.png">
+                        src="Foto/akila.png">
                 </div>
             </div>
             <div id="korniza">
                 <div id="fotografit">
                     <img
-                        src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/balenciaga.jpg">
+                        src="Foto/balenciaga.jpg">
                 </div>
             </div>
             <div id="korniza">
                 <div id="fotografit">
                     <img
-                        src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/nike.png">
+                        src="Foto/nike.png">
                 </div>
             </div>
             <div id="korniza">
                 <div id="fotografit">
                     <img
-                        src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/jins.webp">
+                        src="Foto/jins.webp">
                 </div>
             </div>
             <div id="korniza">
                 <div id="fotografit">
                     <img
-                        src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/rayban.png">
+                        src="Foto/rayban.png">
                 </div>
             </div>
             <div id="korniza">
                 <div id="fotografit">
                     <img
-                        src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/timberland.png">
+                        src="Foto/timberland.png">
                 </div>
             </div>
             <div id="korniza">
                 <div id="fotografit">
                     <img
-                        src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/tomford.png">
+                        src="Foto/tomford.png">
                 </div>
             </div>
         </div>
@@ -162,17 +162,17 @@
         <div id="leftfooter">
             <div id="insta">
                 <img style="width: 40px;"
-                    src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/instagram.png">
+                    src="Foto/instagram.png">
                 <a style="padding-top: 15px;" href="#">www.accessoriesstore.com</a>
             </div>
             <div id="facebook">
                 <img style="width: 40px;"
-                    src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/facebook.png">
+                    src="Foto/facebook.png">
                 <a style="padding-top: 15px;" href="#">www.accessoriesstore.com</a>
             </div>
             <div id="email">
                 <img style="width: 40px;"
-                    src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/email.png">
+                    src="Foto\email.png">
                 <a style="padding-top: 15px;" href="#">accessoriesstore@gmail.com</a>
             </div>
         </div>
@@ -180,7 +180,7 @@
         <div id="midfooter">
             <div id="telefoni">
                 <img style="width: 40px;"
-                    src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/telefoni.png">
+                    src="Foto/telefoni.png">
                 <p style="padding-top: 2px;">+383 44 123 456</p>
                 <p style="padding-top: 2px;">+383 49 789 012</p>
             </div>
@@ -189,7 +189,7 @@
         <div id="rightfooter">
             <div id="location">
                 <img style="width: 40px;"
-                    src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/location.png">
+                    src="Foto/location.png">
                 <p>Rruga Ilaz Kodra nr.14, Prishtine</p>
             </div>
         </div>

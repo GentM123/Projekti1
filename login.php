@@ -67,7 +67,7 @@
             <br>
             <label><input type="checkbox">I agree to the terms and conditions</label>
             <br>    
-            <a href="home.html">
+            <a href="home.php">
             <input onclick="validateForm()" id="log" type="submit" value="Log in" >
             </a>
 

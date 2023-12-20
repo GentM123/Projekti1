@@ -14,7 +14,7 @@
         <div id="headeri">
             <div id="log_img">
                 <img style="width: 100px;"
-                    src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/logo.png"
+                    src="Foto/logo.png"
                     alt="logo">
             </div>
             <div id="emri">
@@ -22,10 +22,10 @@
             </div>
             <div id="lista">
                 <ul>
-                    <a href="home.html">
+                    <a href="home.php">
                         <li>Home</li>
                     </a>
-                    <a href="products.html">
+                    <a href="products.php">
                         <li>Products</li>
                     </a>
                     <a href="#kontakti">
@@ -67,7 +67,7 @@
                 <div id="pershkrimi">
                     <div id="fotografit2">
                         <img class="img"
-                            src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/nacklace1.jpg">
+                            src="Foto/nacklace1.jpg">
                     </div>
                     <div id="produktet-detajet">
                         <p>Qafore</p>
@@ -78,7 +78,7 @@
                 <div id="pershkrimi">
                     <div id="fotografit2">
                         <img class="img"
-                            src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/necklace2.jpg">
+                            src="Foto/necklace2.jpg">
                     </div>
                     <div id="produktet-detajet">
                         <p>Qafore</p>
@@ -89,7 +89,7 @@
                 <div id="pershkrimi">
                     <div id="fotografit2">
                         <img class="img"
-                            src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/ring1.png">
+                            src="Foto/ring1.png">
                     </div>
                     <div id="produktet-detajet">
                         <p>Unaze</p>
@@ -100,7 +100,7 @@
                 <div id="pershkrimi">
                     <div id="fotografit2">
                         <img class="img"
-                            src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/ring2.jpg">
+                            src="Foto/ring2.jpg">
                     </div>
                     <div id="produktet-detajet">
                         <p>Unaze</p>
@@ -112,7 +112,7 @@
                     <div id="pershkrimi">
                         <div id="fotografit2">
                             <img class="img"
-                                src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/earrings1.webp">
+                                src="Foto/earrings1.webp">
                         </div>
                         <div id="produktet-detajet">
                             <p>Vathë</p>
@@ -125,7 +125,7 @@
                     <div id="pershkrimi">
                         <div id="fotografit2">
                             <img class="img"
-                                src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/earrings2.jpg">
+                                src="Foto/earrings2.jpg">
                         </div>
                         <div id="produktet-detajet">
                             <p>Vathë</p>
@@ -147,7 +147,7 @@
                 <div id="pershkrimi">
                     <div id="fotografit2">
                         <img class="img"
-                            src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/hublot1.png">
+                            src="Foto/hublot1.png">
                     </div>
                     <div id="produktet-detajet">
                         <p>Ore Hublot</p>
@@ -158,7 +158,7 @@
                 <div id="pershkrimi">
                     <div id="fotografit2">
                         <img class="img"
-                            src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/hublot2.png">
+                            src="Foto/hublot2.png">
                     </div>
                     <div id="produktet-detajet">
                         <p>Ore Hublot</p>
@@ -169,7 +169,7 @@
                 <div id="pershkrimi">
                     <div id="fotografit2">
                         <img class="img"
-                            src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/rolex1.jpg">
+                            src="Foto/rolex1.jpg">
                     </div>
                     <div id="produktet-detajet">
                         <p>Ore Rolex</p>
@@ -180,7 +180,7 @@
                 <div id="pershkrimi">
                     <div id="fotografit2">
                         <img class="img"
-                            src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/rolex2.jpg">
+                            src="Foto/rolex2.jpg">
                     </div>
                     <div id="produktet-detajet">
                         <p>Ore Rolex</p>
@@ -192,7 +192,7 @@
                     <div id="pershkrimi">
                         <div id="fotografit2">
                             <img class="img"
-                                src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/omega1.webp">
+                                src="Foto/omega1.webp">
                         </div>
                         <div id="produktet-detajet">
                             <p>Ore Omega</p>
@@ -205,7 +205,7 @@
                     <div id="pershkrimi">
                         <div id="fotografit2">
                             <img class="img"
-                                src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/omega2.png">
+                                src="Foto/omega2.png">
                         </div>
                         <div id="produktet-detajet">
                             <p>Ore Omega</p>
@@ -225,7 +225,7 @@
                 <div id="pershkrimi">
                     <div id="fotografit2">
                         <img class="img"
-                            src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/nike1.jpg">
+                            src="Foto/nike1.jpg">
                     </div>
                     <div id="produktet-detajet">
                         <p>Nike Hat</p>
@@ -236,7 +236,7 @@
                 <div id="pershkrimi">
                     <div id="fotografit2">
                         <img class="img"
-                            src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/addidas1.jpg">
+                            src="Foto/addidas1.jpg">
                     </div>
                     <div id="produktet-detajet">
                         <p>Adidas Hat</p>
@@ -247,7 +247,7 @@
                 <div id="pershkrimi">
                     <div id="fotografit2">
                         <img class="img"
-                            src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/sunhat.jpg">
+                            src="Foto/sunhat.jpg">
                     </div>
                     <div id="produktet-detajet">
                         <p>Sunhat</p>
@@ -258,7 +258,7 @@
                 <div id="pershkrimi">
                     <div id="fotografit2">
                         <img class="img"
-                            src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/timberland.jpg">
+                            src="Foto/timberland.jpg">
                     </div>
                     <div id="produktet-detajet">
                         <p>Timberland Hat</p>
@@ -270,7 +270,7 @@
                     <div id="pershkrimi">
                         <div id="fotografit2">
                             <img class="img"
-                                src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/trapperhat.jpg">
+                                src="Foto/trapperhat.jpg">
                         </div>
                         <div id="produktet-detajet">
                             <p>Trapper Hat</p>
@@ -283,7 +283,7 @@
                     <div id="pershkrimi">
                         <div id="fotografit2">
                             <img class="img"
-                                src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/peakyhat.webp">
+                                src="Foto/peakyhat.webp">
                         </div>
                         <div id="produktet-detajet">
                             <p>Peaky Hat</p>
@@ -303,7 +303,7 @@
                 <div id="pershkrimi">
                     <div id="fotografit2">
                         <img class="img"
-                            src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/rayban1.jpg">
+                            src="Foto/rayban1.jpg">
                     </div>
                     <div id="produktet-detajet">
                         <p>Ray Ban Syze</p>
@@ -314,7 +314,7 @@
                 <div id="pershkrimi">
                     <div id="fotografit2">
                         <img class="img"
-                            src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/rayban2.jpg">
+                            src="Foto/rayban2.jpg">
                     </div>
                     <div id="produktet-detajet">
                         <p>Ray Ban Syze</p>
@@ -325,7 +325,7 @@
                 <div id="pershkrimi">
                     <div id="fotografit2">
                         <img class="img"
-                            src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/tomford1.webp">
+                            src="Foto/tomford1.webp">
                     </div>
                     <div id="produktet-detajet">
                         <p>Tomford Syze</p>
@@ -336,7 +336,7 @@
                 <div id="pershkrimi">
                     <div id="fotografit2">
                         <img class="img"
-                            src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/balenciaga.webp">
+                            src="Foto/balenciaga.webp">
                     </div>
                     <div id="produktet-detajet">
                         <p>Balenciaga Syze</p>
@@ -348,7 +348,7 @@
                     <div id="pershkrimi">
                         <div id="fotografit2">
                             <img class="img"
-                                src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/akila.webp">
+                                src="Foto/akila.webp">
                         </div>
                         <div id="produktet-detajet">
                             <p>Akila Syze</p>
@@ -361,7 +361,7 @@
                     <div id="pershkrimi">
                         <div id="fotografit2">
                             <img class="img"
-                                src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/jins1.webp">
+                                src="Foto/jins1.webp">
                         </div>
                         <div id="produktet-detajet">
                             <p>Jins Syze</p>
@@ -378,17 +378,17 @@
         <div id="leftfooter">
             <div id="insta">
                 <img style="width: 40px;"
-                    src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/instagram.png">
+                    src="Foto/instagram.png">
                 <a style="padding-top: 15px;" href="#">www.accessoriesstore.com</a>
             </div>
             <div id="facebook">
                 <img style="width: 40px;"
-                    src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/facebook.png">
+                    src="Foto/facebook.png">
                 <a style="padding-top: 15px;" href="#">www.accessoriesstore.com</a>
             </div>
             <div id="email">
                 <img style="width: 40px;"
-                    src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/email.png">
+                    src="Foto/email.png">
                 <a style="padding-top: 15px;" href="#">accessoriesstore@gmail.com</a>
             </div>
         </div>
@@ -396,7 +396,7 @@
         <div id="midfooter">
             <div id="telefoni">
                 <img style="width: 40px;"
-                    src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/telefoni.png">
+                    src="Foto/telefoni.png">
                 <p style="padding-top: 2px;">+383 44 123 456</p>
                 <p style="padding-top: 2px;">+383 49 789 012</p>
             </div>
@@ -405,7 +405,7 @@
         <div id="rightfooter">
             <div id="location">
                 <img style="width: 40px;"
-                    src="C:\Users\online\Desktop\UBT\SHKI VITI II\Semestri 3\Dizajni dhe zhvillimi i uebit\Projekti\Foto/location.png">
+                    src="Foto/location.png">
                 <p>Rruga Ilaz Kodra nr.14, Prishtine</p>
             </div>
         </div>
